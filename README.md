@@ -1,12 +1,14 @@
-# Islandora-Documentation-Interest-Group
+# Islandora-Documentation-Committee
 
 ## 2023 Convenors
 * Yamil Suarez (Berklee College)
 * Annie Oelschlager (Northern Illinois University)
+* Kestrel Ward (Florida Virtual Campus)
 
 ## Terms of Reference
-* The name of the interest group is the Islandora Documentation Interest Group (DIG)
-* The purpose of the Islandora Documentation Interest Group is to coordinate the creation and maintenance of documentation by the Islandora community.
+* The current name of the committee is the Islandora Documentation Committee (DC)
+    * Our former name is Islandora Documentation Interest Group (DIG) 
+* The purpose of the DC is to coordinate the creation and maintenance of documentation by the Islandora community.
 
 Specific goals, activities, and outcomes include:
 1. Establish best practices for Islandora documentation.
@@ -18,13 +20,13 @@ Specific goals, activities, and outcomes include:
 
 ## Meetings
 
-This interest group meets once a month on the second Wednesday.
+This committee meets once a month on the second Wednesday.
 * Convenor(s) will call meetings when needed and share meeting agendas on the Islandora community mailing list.
-* Meetings are held on Zoom. To join a meeting click the link in the meeting agenda (https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/tree/main/meetings).
+* Meetings are held on Zoom. To join a meeting click the link in the meeting agenda (https://github.com/islandora-committee/Islandora-Documentation-Committee/tree/main/meetings).
 * A convenor will appoint a note taker for the meeting and meeting notes will be made available online after the meeting.
-* A convenor will submit occasional reports on interest group activities to the Islandora Coordinating Committee.
+* A convenor will submit occasional reports on committee activities to the Islandora Coordinating Committee.
 
-## Contact the group
+## Contact the committee
 
 * Email the Islandora community mailing list (islandora at googlegroups dot com) with [DIG] in the subject line
 * Reach out on the #documentation channel in the Islandora Slack space (https://www.islandora.ca/community)
@@ -32,8 +34,7 @@ This interest group meets once a month on the second Wednesday.
 ## Current Membership
 
 * Amy Blau (Whitman College)
-* Mirko Hanke (University of Texas at Austin)
-* Rosie Le Faive (UPEI Library)
+* * Rosie Le Faive (UPEI Library)
 * Yamil Suarez (Berklee College)
 * Annie Oelschlager (Northern Illinois University)
 
