@@ -1,6 +1,6 @@
 # Islandora-Documentation-Committee
 
-## 2023 Convenors
+## 2025 Convenors
 * Yamil Suarez (Berklee College)
 * Annie Oelschlager (Northern Illinois University)
 * Kestrel Ward (Florida Virtual Campus)
