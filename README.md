@@ -6,17 +6,8 @@
 * Kestrel Ward (Florida Virtual Campus)
 
 ## Terms of Reference
-* The current name of the committee is the Islandora Documentation Committee (DC)
-    * Our former name is Islandora Documentation Interest Group (DIG) 
-* The purpose of the DC is to coordinate the creation and maintenance of documentation by the Islandora community.
 
-Specific goals, activities, and outcomes include:
-1. Establish best practices for Islandora documentation.
-1. Establish collaborative workflows for creating and maintaining documentation.
-1. Assist Islandora users and contributors who have questions about the documentation.
-1. Review and discuss documentation-related issues reported in Islandora issue tracking systems.
-1. Provide stable documentation endpoints/’hooks’ for integration with the Islandora UI and coordinate improved implementation of documentation directly in the UI
-1. Identify and prioritize documentation gaps and issues based on community feedback.
+Click here to read our current [Terms of Reference](Terms_of_Reference.md)
 
 ## Meetings
 
