@@ -1,7 +1,7 @@
 # Islandora-Documentation-Committee
 
 ## 2025 Convenors
-* Yamil Suarez (Berklee College)
+* Yamil Suarez (Berklee College) - LG representative
 * Annie Oelschlager (Northern Illinois University)
 * Kestrel Ward (Florida Virtual Campus)
 
